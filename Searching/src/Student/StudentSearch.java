@@ -19,7 +19,7 @@ public class StudentSearch {
 			}
 			else {
 				low=mid+1;
-			}
+			} 
 		}
 			
 		return -1;
