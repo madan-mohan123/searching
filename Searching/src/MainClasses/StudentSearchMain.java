@@ -23,7 +23,7 @@ public class StudentSearchMain {
          si.setCpi(sc.nextFloat());
          sc.nextLine();
          STArray[i]=si;
-        }
+        } 
         
         Arrays.sort(STArray);
         
