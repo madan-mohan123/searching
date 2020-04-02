@@ -11,7 +11,7 @@ public void setName(String name) {
 }
 public void setEmail(String Email) {
 	this.Email=Email;
-}
+} 
 public void setCoarse(String coarse) {
 	this.coarse=coarse;
 }
